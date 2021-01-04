@@ -1,20 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: yoshinari1356 # Your GitHub username
+repo: upptime_test # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: youtube
+    url: http://youtube.com/
+    icon: http://youtube.com/favicon.ico
   - name: Google
     url: https://www.google.com
+    icon: https://www.google.com/favicon.ico
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
+    icon: https://en.wikipedia.com/favicon.ico
   - name: Secret Site
     url: $SECRET_SITE
 
