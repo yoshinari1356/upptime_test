@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 520,
-    "timeDay": 320,
-    "timeWeek": 354,
-    "timeMonth": 348,
-    "timeYear": 520,
+    "time": 519,
+    "timeDay": 348,
+    "timeWeek": 352,
+    "timeMonth": 352,
+    "timeYear": 519,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 68,
-    "timeWeek": 71,
-    "timeMonth": 74,
-    "timeYear": 76,
+    "time": 77,
+    "timeDay": 89,
+    "timeWeek": 91,
+    "timeMonth": 79,
+    "timeYear": 77,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 128,
-    "timeWeek": 201,
-    "timeMonth": 252,
-    "timeYear": 173,
-    "dailyMinutesDown": {
-      "2021-11-03": 9
-    }
+    "time": 175,
+    "timeDay": 271,
+    "timeWeek": 258,
+    "timeMonth": 268,
+    "timeYear": 175,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 693,
-    "timeDay": 945,
-    "timeWeek": 614,
+    "timeDay": 852,
+    "timeWeek": 709,
     "timeMonth": 641,
     "timeYear": 693,
     "dailyMinutesDown": {
