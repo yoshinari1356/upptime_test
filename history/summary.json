@@ -40,19 +40,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://en.wikipedia.com/favicon.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 939,
-    "timeWeek": 463,
-    "timeMonth": 275,
-    "timeYear": 231,
+    "timeDay": 536,
+    "timeWeek": 422,
+    "timeMonth": 271,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-11-07": 0
+      "2022-11-07": 9
     }
   },
   {
