@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 279,
-    "timeWeek": 380,
-    "timeMonth": 429,
+    "timeDay": 497,
+    "timeWeek": 405,
+    "timeMonth": 430,
     "timeYear": 408,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 54,
-    "timeWeek": 89,
+    "timeDay": 77,
+    "timeWeek": 88,
     "timeMonth": 99,
     "timeYear": 91,
     "dailyMinutesDown": {}
@@ -42,18 +42,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 135,
-    "timeWeek": 248,
-    "timeMonth": 194,
+    "timeDay": 154,
+    "timeWeek": 184,
+    "timeMonth": 196,
     "timeYear": 223,
-    "dailyMinutesDown": {
-      "2023-02-11": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 722,
-    "timeDay": 664,
-    "timeWeek": 756,
-    "timeMonth": 736,
+    "timeDay": 667,
+    "timeWeek": 754,
+    "timeMonth": 718,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2022-08-04": 23,
