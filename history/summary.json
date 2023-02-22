@@ -40,18 +40,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://en.wikipedia.com/favicon.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 175,
-    "timeWeek": 170,
-    "timeMonth": 206,
-    "timeYear": 222,
-    "dailyMinutesDown": {}
+    "time": 229,
+    "timeDay": 131,
+    "timeWeek": 160,
+    "timeMonth": 203,
+    "timeYear": 221,
+    "dailyMinutesDown": {
+      "2023-02-22": 0
+    }
   },
   {
     "name": "Secret Site",
