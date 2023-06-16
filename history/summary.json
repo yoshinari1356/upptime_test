@@ -4,19 +4,19 @@
     "url": "http://youtube.com/",
     "icon": "http://youtube.com/favicon.ico",
     "slug": "youtube",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 5340,
-    "timeWeek": 1176,
-    "timeMonth": 627,
+    "time": 433,
+    "timeDay": 2958,
+    "timeWeek": 1101,
+    "timeMonth": 626,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 8
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 678,
-    "timeDay": 5706,
-    "timeWeek": 1403,
-    "timeMonth": 838,
+    "timeDay": 3202,
+    "timeWeek": 1315,
+    "timeMonth": 834,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2023-06-16": 0,
+      "2023-06-16": 7,
       "2022-08-04": 23
     }
   }
