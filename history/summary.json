@@ -4,10 +4,10 @@
     "url": "http://youtube.com/",
     "icon": "http://youtube.com/favicon.ico",
     "slug": "youtube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
@@ -15,7 +15,9 @@
     "timeWeek": 1176,
     "timeMonth": 627,
     "timeYear": 451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-16": 1
+    }
   },
   {
     "name": "Google",
@@ -58,9 +60,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -70,6 +72,7 @@
     "timeMonth": 838,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2023-06-16": 0,
       "2022-08-04": 23
     }
   }
