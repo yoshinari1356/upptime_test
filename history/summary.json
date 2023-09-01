@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 449,
+    "timeDay": 393,
     "timeWeek": 471,
     "timeMonth": 470,
     "timeYear": 460,
@@ -22,18 +22,20 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 85,
-    "timeWeek": 122,
-    "timeMonth": 109,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "time": 107,
+    "timeDay": 245,
+    "timeWeek": 157,
+    "timeMonth": 117,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2023-09-01": 0
+    }
   },
   {
     "name": "Wikipedia",
