@@ -6,18 +6,16 @@
     "slug": "youtube",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 553,
-    "timeWeek": 577,
-    "timeMonth": 572,
+    "timeDay": 597,
+    "timeWeek": 565,
+    "timeMonth": 570,
     "timeYear": 481,
-    "dailyMinutesDown": {
-      "2023-11-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 75,
-    "timeWeek": 148,
-    "timeMonth": 141,
-    "timeYear": 117,
+    "time": 112,
+    "timeDay": 80,
+    "timeWeek": 147,
+    "timeMonth": 138,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 660,
-    "timeWeek": 243,
-    "timeMonth": 450,
+    "time": 227,
+    "timeDay": 269,
+    "timeWeek": 261,
+    "timeMonth": 451,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 717,
-    "timeDay": 983,
-    "timeWeek": 918,
-    "timeMonth": 797,
+    "timeDay": 822,
+    "timeWeek": 939,
+    "timeMonth": 793,
     "timeYear": 739,
     "dailyMinutesDown": {}
   }
