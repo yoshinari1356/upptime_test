@@ -4,18 +4,20 @@
     "url": "http://youtube.com/",
     "icon": "http://youtube.com/favicon.ico",
     "slug": "youtube",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 390,
-    "timeWeek": 429,
-    "timeMonth": 420,
+    "time": 395,
+    "timeDay": 347,
+    "timeWeek": 413,
+    "timeMonth": 416,
     "timeYear": 405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-19": 14
+    }
   },
   {
     "name": "Google",
