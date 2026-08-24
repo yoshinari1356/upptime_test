@@ -22,16 +22,16 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
-    "time": 127,
-    "timeDay": 193,
-    "timeWeek": 125,
-    "timeMonth": 102,
+    "time": 128,
+    "timeDay": 240,
+    "timeWeek": 141,
+    "timeMonth": 107,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2025-09-03": 15,
@@ -40,7 +40,8 @@
       "2026-04-11": 19,
       "2026-04-19": 19,
       "2026-08-12": 62,
-      "2026-08-21": 23
+      "2026-08-21": 23,
+      "2026-08-24": 0
     }
   },
   {
